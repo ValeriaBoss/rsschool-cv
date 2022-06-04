@@ -1,6 +1,6 @@
 # Valeria Pokhylko
 # My contact information:
-* __Phone number:__ +49 160 2372890(Germany)/ +380965706777(Ukraine)
+* __Phone number:__ +49 160 2372890(_Germany_)/ +380965706777(_Ukraine_)
 * __Telegram:__ @valera_1
 * __Discord:__ Valeria1998
 # About me:
