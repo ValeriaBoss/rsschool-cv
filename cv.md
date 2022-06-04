@@ -9,7 +9,7 @@ Become a front end girl - it's like a challenge for me. I have no experience in 
 # Skills:
 * SMM  
 * Lovely smile
-Js - in progress 
+* Js - in progress 
 # Code example
 Not yet
 # Experience:
@@ -19,7 +19,7 @@ Not yet
 * Master's degree, Yaroslav Mydryi National Law Universite
 * Lemon School, Internet marketing specialist
 # Languages 
-+ English (B2)
++ English (B2 level)
 + Ukraine
 + Russian
 + German( a little)
